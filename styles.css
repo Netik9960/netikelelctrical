@@ -19,13 +19,13 @@ body{
  display: inline-flex;
  margin: 0px 0px;
  padding: 2px;
- border-left: 2px solid #338ceb;
+ /* border-left: 2px solid; */
  border-radius: 10px;
  }
  #header h2{
-    border-right: 2px solid #338ceb;
+    /* border-right: 2px solid; */
     border-radius: 10px;
-    /* background-color: white; */
+    /* background-color: rgb(143, 140, 140); */
     height: fit-content;
  font-size: 30px;
  font-family: centaur;
@@ -72,7 +72,7 @@ body{
 /* Main Menu */
 #menu ul a{
     list-style: none;
-    color: #75df2f;
+    color: #40d2e9;
     text-decoration: none;
     line-height: 30px;
     padding: 5px 15px;
