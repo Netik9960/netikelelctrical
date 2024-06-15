@@ -11,17 +11,17 @@ body{
 }
 
 #header{
- font-family: Times, 'Times New Roman', serif;
- align-items: left;
- color: #eafffc;
- width: auto;
- height: 120px;
- display: inline-flex;
- margin: 0px 0px;
- padding: 2px;
- /* border-left: 2px solid; */
- border-radius: 10px;
- }
+        font-family: 'Brannbol fet','before the rain','Times', 'Times New Roman', 'serif';
+        align-items: left;
+        color: #ffffff;
+        width: auto;
+        height: 120px;
+        display: inline-flex;
+        margin: 0px 0px;
+        padding: 2px;
+        /* border-left: 2px solid; */
+        border-radius: 10px;
+        }
  #header h2{
     /* border-right: 2px solid; */
     border-radius: 10px;
