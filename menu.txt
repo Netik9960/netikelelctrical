@@ -1,0 +1,70 @@
+                            <ul>
+                                <li><a href="">Submersible Pump</a></li>
+                                <li><a href="">Monoblock Pump</a></li>
+                                <li><a href="">Selfpriming Pump</a></li>
+                                <li><a href="">Mixfloor Pump</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="">Light Fiting</a>
+                            <ul id="light Fiting"><a href=""></a>
+                                <li><a href="">Service Wire</a></li>
+                                <li><a href=""></a>Cooper Wire</li>
+                                <li><a href=""></a>Bulbs</li>
+                                <li><a href=""></a>Switches</li>
+                            </ul>
+                        </li>
+                        <li><a href="">Spray Pumps</a>
+                            <ul id="Spray Pumps"><a href=""></a>
+                                <li><a href="">Single Motor</a></li>
+                                <li><a href="">Double Motor</a></li>
+                                <li><a href="">12V - 12A </a></li>
+                                <li><a href="">12V - 8A </a></li>
+                            </ul>
+                        </li>
+                        <li>Agriculture Pipes</li>
+                    </ul>
+                </li>
+                
+                <li><a href="">Gallery</a></li>
+                <li ><a href="">Contact us</a></li>
+            </ul>
+
+Menu Design
+#menu ul{
+ padding: 0px 0px;
+ margin: 0px;
+ 
+ 
+}
+#menu li{
+ /* background-color: #1f2833; */
+ padding: 0px;
+
+ display: inline-flex;
+ 
+
+}
+#menu a{
+ color:#31c3dd;
+ /* display: block; */
+ padding: 0px 20px;
+ margin: 0px 2px;
+ text-decoration: none;
+ font-size: large;
+ 
+ /* transition-property: width; */
+}
+#menu a:hover{    
+     /* background-color: rgb(24, 141, 151); */
+     margin: 0px 2px;
+     padding: 0px 20px;
+    
+     font-size: 20px;
+     color: rgb(31, 245, 216);
+     transition-delay: 0s;
+     transition-duration: 0.5s;
+     /* width: 68px; */
+     align-items: center;
+    
+     
+}
